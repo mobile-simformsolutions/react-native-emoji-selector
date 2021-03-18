@@ -1,23 +1,57 @@
 {
-  "name": "react-native-emoji-selector",
-  "version": "0.2.0",
-  "description": "A react native emoji selector",
-  "main": "index.js",
-  "types": "./index.d.ts",
-  "scripts": {
-    "prettify": "prettier --write './**/*.js'"
+  "_args": [
+    [
+      "react-native-emoji-selector@0.2.0",
+      "/Users/ashutoshjani/Documents/Simform/okayso-mobile-app-react-native"
+    ]
+  ],
+  "_from": "react-native-emoji-selector@0.2.0",
+  "_id": "react-native-emoji-selector@0.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-+rPPWG5vl5AexdH8udEwtzdq9QUGD6kp+dQ8C/459d3ScM0S3UnT/qAvhmpsTgCbgjpdwiJIcrKNxKmGEDb15g==",
+  "_location": "/react-native-emoji-selector",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-emoji-selector@0.2.0",
+    "name": "react-native-emoji-selector",
+    "escapedName": "react-native-emoji-selector",
+    "rawSpec": "0.2.0",
+    "saveSpec": null,
+    "fetchSpec": "0.2.0"
   },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-emoji-selector/-/react-native-emoji-selector-0.2.0.tgz",
+  "_spec": "0.2.0",
+  "_where": "/Users/ashutoshjani/Documents/Simform/okayso-mobile-app-react-native",
+  "author": {
+    "name": "Arron Hunt"
+  },
+  "bugs": {
+    "url": "https://github.com/arronhunt/react-native-emoji-selector/issues"
+  },
+  "dependencies": {
+    "emoji-datasource": "^6.0.0"
+  },
+  "description": "A react native emoji selector",
+  "homepage": "https://github.com/arronhunt/react-native-emoji-selector#readme",
   "keywords": [
     "emoji",
     "react"
   ],
-  "author": "Arron Hunt",
   "license": "MIT",
-  "dependencies": {
-    "emoji-datasource": "^6.0.0"
-  },
+  "main": "index.js",
+  "name": "react-native-emoji-selector",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/arronhunt/react-native-emoji-selector.git"
-  }
+  },
+  "scripts": {
+    "prettify": "prettier --write './**/*.js'"
+  },
+  "types": "./index.d.ts",
+  "version": "0.2.0"
 }
